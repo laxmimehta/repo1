@@ -5,3 +5,5 @@ Controller.$inject = ['$scope', 'mainApp'];
 function Controller($scope, ga){
 $scope.data1 = ga.giveMeMembers();
 }
+
+///dbhvkjxfhkgj cx fhkdjxgjk hkjxhcvukdfjgh kchuh u hdfkgjhfd
